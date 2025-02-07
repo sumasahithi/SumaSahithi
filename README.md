@@ -1,6 +1,8 @@
 ### Hi 👋, I'm Geetha Ambika Suma Sahithi
 
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="40%" alt="Welcome GIF">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="40%" alt="Welcome GIF">
+</p>
 
 ---
 
